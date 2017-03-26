@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-angular-header-interface",
   "version": "0.0.0",
-  "description": "Enforce angular components to have a strict interface definition on the top.",
+  "description": "Enforce angular classes to have a strict interface definition on the top by leveraging javascript function hoisting.",
   "keywords": [
     "eslint",
     "eslintplugin",
@@ -13,6 +13,7 @@
     "test": "mocha tests --recursive"
   },
   "dependencies": {
+    "lodash": "^4.17.4",
     "requireindex": "~1.1.0"
   },
   "devDependencies": {
