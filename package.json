@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-angular-header-interface",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Enforce angular classes to have a strict interface definition on the top by leveraging javascript function hoisting.",
   "keywords": [
     "eslint",
